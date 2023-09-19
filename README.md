@@ -7,7 +7,7 @@
 cd ~/dev
 mkdir poo
 cd poo
-git clone git@github.com:ThomasLaforge/poo-template.git
+git clone git@github.com:ThomasLaforge/poo-setup-simplon.git poo-template
 ```
 2. Déplacez vous dans le dossier cloné
 ```bash
